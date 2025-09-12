@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: black;
+    background-color: rgb(255, 245, 245) ;
+    font-family: "Montserrat", sans-serif;
+}
+
+body img {
+    height: 100px;
+    width: 100px;
+}
+
+#retanguloSuperior {
+    background-color: blue;
+    height: 100px;
+    display: flex;
+    position: fixed;
+    width: 100%;
+    top:0;
+}
+
+#retanguloSuperior h1 {
+    font-weight: 900;
+    color: white;
+    margin: auto 21px auto;
+}
+
+#retanguloSuperior a,span {
+    margin: 30px 10px;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+}
+
+#galeria {
+    display: flex;
+    overflow-x: auto;
+    gap: 16px;
+    background: rgb(255, 245, 245);
+    margin-top: 200px;
+    color: black;
+    font-size: 30px ;
+}
+
+#galeria div {
+    text-align: center;
+}
+
+#galeria p {
+    margin-top: 10px;
+}
+
+#galeria img {
+    width: 486px;
+    height: 332px;
+    border: 5px solid gray;
+    border-radius: 5%;
+    background: white;
+}
+
+footer {
+    color: black;
+}
