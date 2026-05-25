@@ -1,0 +1,1 @@
+[![pages-build-deployment](https://github.com/Lucas-Lopes-Alves/Super-Carros/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Lucas-Lopes-Alves/Super-Carros/actions/workflows/pages/pages-build-deployment)
